@@ -44,30 +44,6 @@ Este proyecto representa una página web interactiva y visualmente atractiva ins
 
 ---
 
-## 📂 Estructura del Proyecto
-
-
----
-
-## 🎨 Estilo y Diseño
-
-### Colores Utilizados
-- **Azul Marino:** `#004c6d` (Fondo de navegación y títulos).  
-- **Azul Claro:** `#00b4d8` (Botones y degradados).  
-- **Blanco:** `white` (Textos).  
-- **RGBA:** `rgba(0, 85, 127, 0.8)` (Fondos translúcidos en recuadros).  
-
-### Elementos Destacados
-- **Degradados:** Fondo general y encabezado con transiciones suaves entre tonos azules.  
-- **Efectos de Hover:** Los recuadros interactivos y enlaces cambian de tamaño y color al pasar el cursor.  
-- **Tipografía Elegante:** Uso de fuentes serif y sans-serif para destacar títulos y mantener la legibilidad.
-
----
-
-## 🚀 Cómo Usar el Proyecto
-
-1. **Clona el repositorio:**
-   ```bash
    git clone https://github.com/tu-usuario/acuario-inbursa-virtual.git
 💻 Desarrollado por:
 [@Celvy92]
